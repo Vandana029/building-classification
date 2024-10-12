@@ -1,0 +1,11 @@
+torch==2.0.1           # PyTorch for neural network training
+torchvision==0.15.2    # Torchvision for image transforms
+scikit-learn==1.3.0    # For machine learning models (SVM, Logistic Regression, Random Forest, Voting Classifier, PCA)
+xgboost==1.6.2         # XGBoost classifier
+numpy==1.23.5          # For array manipulation
+pandas==1.5.3          # For data handling (if used)
+matplotlib==3.7.1      # For visualizations (e.g., confusion matrices)
+seaborn==0.12.2        # For better plotting
+joblib==1.3.2          # For saving/loading models
+Pillow==9.5.0          # For image loading and transformations
+tqdm==4.66.1           # For progress bars
